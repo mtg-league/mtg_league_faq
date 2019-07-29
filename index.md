@@ -34,7 +34,7 @@ layout: default
 * One free mulligan (7 new cards) then for each mulligan after that, you choose that number of cards and put them on the bottom of your deck before starting the game
 * Roll dice to decide who goes first
 * If you go first, you don’t draw on your first turn
-* If you have a question or need a ruling, ask in Slack or if other players are around, ask them. If it’s REALLY specific or complicated, ask in judge chat https://chat.magicjudges.org/mtgrules/
+* If you have a question or need a ruling, ask in Slack or if other players are around, ask them. If it’s REALLY specific or complicated, ask in [judge chat](https://chat.magicjudges.org/mtgrules/)
 
 ## Prizes
 * Prizes given at end
