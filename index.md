@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Grubhub MTG League Rules
+# Grubhub MTG League Rules and FAQ
 
 ## Packs
-* Start with 3 packs
+* Start with 3 or 6 packs (depending on the league)
 * After 3 matches, add another pack to your deck
 * Every 3 (cumulative) losses, add another pack to your deck
-* Initial buy in ($9) should be paid via Venmo (Andrew-Baber), Paypal (agbaber@gmail.com) or LevelUp (DM me on Slack @andrewb)
+* Initial buy in should be paid via [Venmo](https://venmo.com/Andrew-Baber) (Andrew-Baber), [Paypal](http://paypal.me/agbaber) (agbaber@gmail.com) or LevelUp (DM me on Slack @andrewb)
 * You can join whenever you want
 * You can use your own packs, but cannot add more than the normal number or use cards from outside your packs
 * No trading cards until after the league is over
