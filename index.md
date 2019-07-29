@@ -10,13 +10,18 @@ layout: default
 * Every 3 (cumulative) losses, add another pack to your deck
 * Initial buy in should be paid via [Venmo](https://venmo.com/Andrew-Baber) (Andrew-Baber), [Paypal](http://paypal.me/agbaber) (agbaber@gmail.com) or LevelUp (DM me on Slack @andrewb)
 * You can join whenever you want
-* You can use your own packs, but cannot add more than the normal number or use cards from outside your packs
 * No trading cards until after the league is over
 
 ## Decks
+### For 3 pack leagues:
 * 30 card decks minimum, no maximum
 * Usually 13 lands, 17 non-lands (adjusted based on your deck “speed”)
 * Usually 2 colors with a 3rd splashed, or 4-5 colors if your base color is green and you have plenty of “fixing”
+
+### For 6 pack leagues:
+* 40 card decks minimum, no maximum
+* Usually 17 lands, 23 non-lands (adjusted based on your deck “speed”)
+* Usually 2 colors with a 3rd splashed, or 3+ colors if your base color is green and you have plenty of “fixing”
 
 ## Matches
 * 3 matches per week
@@ -41,7 +46,7 @@ layout: default
 * [Gatherer](gatherer.wizards.com) - Official Rulings 
 * [Evergreen Keywords](https://66.media.tumblr.com/4c504a06546c4e88ecd47353f32b6382/tumblr_o19xrzEzkz1qia2dho1_1280.png)
 * Scryfall in Slack
-* * Surround [[card names]] with braces and the bot will post Oracle text to your channel. Also supports [[!images]], [[$prices]], [[?rulings]], and [[#legality]]
+  * Surround [[card names]] with braces and the bot will post Oracle text to your channel. Also supports [[!images]], [[$prices]], [[?rulings]], and [[#legality]]
 
 
 More questions? Ask in [Slack](https://grubhub.slack.com/messages/CJ571MTS9)!
