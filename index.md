@@ -43,7 +43,7 @@ layout: default
 ## Resources
 * [Limited Resources](http://lrcast.com/)
 * [Channel Fireball Set Reviews](https://www.channelfireball.com/tag/lsvs-set-review/)
-* [Gatherer](gatherer.wizards.com) - Official Rulings 
+* [Gatherer](https://gatherer.wizards.com/Pages/Default.aspx) - Official Rulings 
 * [Evergreen Keywords](https://66.media.tumblr.com/4c504a06546c4e88ecd47353f32b6382/tumblr_o19xrzEzkz1qia2dho1_1280.png)
 * Scryfall in Slack
   * Surround [[card names]] with braces and the bot will post Oracle text to your channel. Also supports [[!images]], [[$prices]], [[?rulings]], and [[#legality]]
