@@ -2,7 +2,36 @@
 layout: default
 ---
 
+# Overview
+
+The Grubhub Magic League is a month-long, cross-company Magic the Gathering (card game) tournament. Employees from every team are welcome to participate in one on one matches - facing off for glory (and prizes).
+
+# Magic? That game from the 90’s?
+Yep - precisely that game! Not only is it still around, it’s bigger than it’s ever been with almost 35 million players. PAX East recently featured a tournament (the “[Mythic Invitational](https://www.magic.gg/news/capturing-magic-at-the-mythic-invitational)”) with a million dollar prize pool! There are lots of reasons people play Magic but the basic gist is:
+
+1) It’s simple to learn but also an extremely deep and complex game (classic Bushnell’s Law)
+2) There’s great nostalgia factor for people who played as a kid
+3) It’s really fun to play!
+
+# What’s a League?
+The Grubhub Magic League runs for 4 weeks where each participant is encouraged to play up to 3 matches. Prizes are given out for based on rank at the conclusion of the League. It’s not a strict tournament (no brackets), so people can play according to their schedule and availability. Games are played during lunch and after work (not during work hours).
+
+# Do you have to already play Magic to participate?
+Nope! Newbies are more than welcome and the League includes a training session and plenty of support. Veteran players love to teach newcomers!
+
+# Prizes?
+
+Prizes include various Magic sealed products ( booster packs, prebuilt “Commander” decks, etc). Prizes are given out for participation and based on record.
+
+# Sign up!
+[https://www.mtg-league.com/leagues/9/signup](https://www.mtg-league.com/leagues/9/signup)
+
 # Grubhub MTG League Rules and FAQ
+
+## What’s the deal with this set?
+Check out the sweet sweet spoilers here:
+[http://mythicspoiler.com](http://mythicspoiler.com)
+
 
 ## Packs
 * Start with 3 or 6 packs (depending on the league)
