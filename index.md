@@ -23,6 +23,40 @@ Nope! Newbies are more than welcome and the League includes a training session a
 
 Prizes include various Magic sealed products ( booster packs, prebuilt “Commander” decks, etc). Prizes are given out for participation and based on record.
 
+### Prize specifics:
+
+#### Weekly Prizes:
+| Wins | Losses | Prizes |
+|:----:|:------:|:------:|
+| 3    | 0      | 2      |
+| 2    | 1      | 1      |
+
+#### Overall Prizes (must complete 12 matches)
+
+| Overall Wins | Overall Losses | Overall Bonus |
+|:------------:|:--------------:|:-------------:|
+| 12           | 0              | 4             |
+| 11           | 1              | 4             |
+| 10           | 2              | 4             |
+| 9            | 3              | 3             |
+| 8            | 4              | 3             |
+| 7            | 5              | 3             |
+| 6            | 6              | 2             |
+| 5            | 7              | 2             |
+| 4            | 8              | 2             |
+| 3            | 9              | 1             |
+| 2            | 10             | 1             |
+| 1            | 11             | 1             |
+| 0            | 12             | 1             |
+
+#### Placement Prizes
+
+| Place | Prizes |
+|:-----:|:------:|
+| 1st   | 4      |
+| 2nd   | 3      |
+| 3rd   | 2      |
+
 # Sign up!
 [https://www.mtg-league.com/leagues/9/signup](https://www.mtg-league.com/leagues/9/signup)
 
@@ -34,7 +68,7 @@ Check out the sweet sweet spoilers here:
 
 
 ## Packs
-* Start with 3 or 6 packs (depending on the league)
+* Start with 6 packs
 * After 3 matches, add another pack to your deck
 * Every 3 (cumulative) losses, add another pack to your deck
 * Initial buy in should be paid via [Venmo](https://venmo.com/Andrew-Baber) (Andrew-Baber), [Paypal](http://paypal.me/agbaber) (agbaber@gmail.com) or LevelUp (DM me on Slack @andrewb)
@@ -42,12 +76,6 @@ Check out the sweet sweet spoilers here:
 * No trading cards until after the league is over
 
 ## Decks
-### For 3 pack leagues:
-* 30 card decks minimum, no maximum
-* Usually 13 lands, 17 non-lands (adjusted based on your deck “speed”)
-* Usually 2 colors with a 3rd splashed, or 4-5 colors if your base color is green and you have plenty of “fixing”
-
-### For 6 pack leagues:
 * 40 card decks minimum, no maximum
 * Usually 17 lands, 23 non-lands (adjusted based on your deck “speed”)
 * Usually 2 colors with a 3rd splashed, or 3+ colors if your base color is green and you have plenty of “fixing”
