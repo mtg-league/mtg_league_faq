@@ -26,6 +26,7 @@ Prizes include various Magic sealed products ( booster packs, prebuilt “Comman
 ### Prize specifics:
 
 #### Weekly Prizes:
+
 | Wins | Losses | Prizes |
 |:----:|:------:|:------:|
 | 3    | 0      | 2      |
@@ -58,7 +59,7 @@ Prizes include various Magic sealed products ( booster packs, prebuilt “Comman
 | 3rd   | 2      |
 
 # Sign up!
-[https://www.mtg-league.com/leagues/9/signup](https://www.mtg-league.com/leagues/9/signup)
+[https://www.mtg-league.com/leagues/10/signup](https://www.mtg-league.com/leagues/10/signup)
 
 # Grubhub MTG League Rules and FAQ
 
@@ -107,4 +108,3 @@ Check out the sweet sweet spoilers here:
 
 
 More questions? Ask in [Slack](https://grubhub.slack.com/messages/CJ571MTS9)!
-
