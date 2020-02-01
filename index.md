@@ -59,7 +59,7 @@ Prizes include various Magic sealed products ( booster packs, prebuilt “Comman
 | 3rd   | 2      |
 
 # Sign up!
-[https://www.mtg-league.com/leagues/10/signup](https://www.mtg-league.com/leagues/10/signup)
+[http://api.mtg-league.com/signup](http://api.mtg-league.com/signup)
 
 # Grubhub MTG League Rules and FAQ
 
