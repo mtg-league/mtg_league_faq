@@ -14,14 +14,14 @@ Yep - precisely that game! Not only is it still around, it’s bigger than it’
  3. It’s really fun to play!
 
 # What’s a League?
-The Grubhub Magic League runs for 4 weeks where each participant is encouraged to play up to 3 matches. Prizes are given out for based on rank at the conclusion of the League. It’s not a strict tournament (no brackets), so people can play according to their schedule and availability. Games are played during lunch and after work (not during work hours).
+The Grubhub Magic League runs for 4 weeks where each participant is encouraged to play up to 3 matches. Prizes are given out based on participation, weekly results and rank at the conclusion of the League. It’s not a strict tournament (no brackets), so people can play according to their schedule and availability. Games are played during lunch and after work (not during work hours).
 
 # Do you have to already play Magic to participate?
 Nope! Newbies are more than welcome and the League includes a training session and plenty of support. Veteran players love to teach newcomers!
 
 # Prizes?
 
-Prizes include various Magic sealed products ( booster packs, prebuilt “Commander” decks, etc). Prizes are given out for participation and based on record.
+Prizes include various Magic sealed products (booster packs, etc). Prizes are given out for participation and based on record.
 
 ### Prize specifics:
 
@@ -89,14 +89,10 @@ Check out the sweet sweet spoilers here:
 * Matches should be played at lunch or after work
 
 ## Games
-* One free mulligan (7 new cards) then for each mulligan after that, you choose that number of cards and put them on the bottom of your deck before starting the game
+* One free mulligan (7 new cards) then for each mulligan after that, you choose that number of cards and put them on the bottom of your deck before starting the game ("London"n Mulligan)
 * Roll dice to decide who goes first
 * If you go first, you don’t draw on your first turn
 * If you have a question or need a ruling, ask in Slack or if other players are around, ask them. If it’s REALLY specific or complicated, ask in [judge chat](https://chat.magicjudges.org/mtgrules/)
-
-## Prizes
-* Prizes given at end
-* Given for overall rank and door prizes
 
 ## Resources
 * [Limited Resources](http://lrcast.com/)
