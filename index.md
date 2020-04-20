@@ -2,6 +2,42 @@
 layout: default
 ---
 
+# Ikoria: Lair of Behemoths - Special Rules for Arena!
+This league is special - all digital!  Here's how to get started and how to keep track of your deck:
+
+How to start:
+
+1) Download and sign up for Arena: https://magic.wizards.com/en/mtgarena
+2) Send me your arena name (click the crossed swords in the top right and send me the "NAME#NUMBER" combo)
+3) Join a "Sealed League" (Hit "Play", select "Sealed Ikoria: Lair of Behemoths")
+4) SAVE YOUR SEALED LEAGUE DECK and name it something memorable (GH SEALED LEAGUE). Also EXPORT your decklist, and save it.
+
+Now you're ready to play. You'll select Direct Challenge (crossed swords in top) and select "Limited Tournament Match"
+
+When you open new packs to add, MAKE SURE YOU SCREENSHOT THE CARDS! 
+
+One more time, MAKE SURE. YOU SCREENSHOT. THE CARDS!!
+
+Then open the screenshot and your sealed deck.  Add the cards from the screenshot to your sideboard. EXPORT your decklist again and save it.
+
+When making edits to your deck, you need to pull them to and from your sideboard. If you just click on them, it won't do what you want.
+
+FAQ:
+1) Why do I have to screenshot my cards?
+
+  So you remember what you opened
+  
+2) Why do I have to add the cards to my sideboard?
+
+  So you remember what you opened
+  
+3) Why do I have to export my deck lists?
+
+  So you... remember what you opened
+
+
+
+
 # Overview
 
 The Grubhub Magic League is a month-long, cross-company Magic the Gathering (card game) tournament. Employees from every team are welcome to participate in one on one matches - facing off for glory (and prizes).
