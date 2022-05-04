@@ -72,7 +72,7 @@ Check out the sweet sweet spoilers here:
 * Start with 6 packs
 * After 3 matches, add another pack to your deck
 * Every 3 (cumulative) losses, add another pack to your deck
-* Initial buy in should be paid via [Shopify](https://mtg-league.myshopify.com/)
+* Initial packs should be purchased via [Shopify](https://mtg-league.myshopify.com/)
 * You can join whenever you want
 * No trading cards until after the league is over
 
