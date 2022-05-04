@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 
-The Grubhub Magic League is a month-long, cross-company Magic the Gathering (card game) tournament. Employees from every team are welcome to participate in one on one matches - facing off for glory (and prizes).
+The Grubhub Magic League is a month-long, Magic the Gathering (card game) tournament. Employees from every team are welcome to participate in one on one matches - facing off for glory (and prizes).
 
 # Magic? That game from the 90’s?
 Yep - precisely that game! Not only is it still around, it’s bigger than it’s ever been with almost 35 million players. PAX East recently featured a tournament (the “[Mythic Invitational](https://www.magic.gg/news/capturing-magic-at-the-mythic-invitational)”) with a million dollar prize pool! There are lots of reasons people play Magic but the basic gist is:
