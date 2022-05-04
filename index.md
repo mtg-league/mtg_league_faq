@@ -72,7 +72,7 @@ Check out the sweet sweet spoilers here:
 * Start with 6 packs
 * After 3 matches, add another pack to your deck
 * Every 3 (cumulative) losses, add another pack to your deck
-* Initial buy in should be paid via [Venmo](https://venmo.com/Andrew-Baber) (Andrew-Baber), [Paypal](http://paypal.me/agbaber) (agbaber@gmail.com) or LevelUp (DM me on Slack @andrewb)
+* Initial buy in should be paid via [Shopify](https://mtg-league.myshopify.com/)
 * You can join whenever you want
 * No trading cards until after the league is over
 
